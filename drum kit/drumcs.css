@@ -1,0 +1,66 @@
+body
+{
+background-color: black;
+text-align: center;
+font-size: 5rem;
+
+}
+
+.kedrum-kit
+{ background-color:black;
+    width: 95%;
+position:relative;
+top:3vh;
+height:20vh;
+display:flex;
+margin:0 auto;
+border:2px solid red;
+}
+.drum-pad
+{
+height: 150px;
+width: 150px;
+outline: none;
+border: 15px solid rgba(49, 144, 192, 0.338);
+border-radius: 10px;
+font-size: 50px;
+
+
+
+
+}
+.h1
+{
+    height: 200px;
+    
+color: white;
+font-size: 5rem;
+border-radius: 1em;
+border-color: red;
+text-shadow: 3px 0 3px red;
+
+
+}
+
+.Q{
+background-image: url(images/crash.png);
+
+}
+.W{
+    background-image: url(images/kick.png);  
+}
+.E{
+    background-image: url(images/snare.png);
+}
+.A{
+    background-image: url(images/tom1.png);
+}
+.S{
+    background-image: url(images/tom2.png);
+}
+.D{
+    background-image: url(images/tom3.png);
+}
+.Z{
+    background-image: url(images/tom4.png);    
+}
